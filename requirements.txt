@@ -1,6 +1,6 @@
 # -r packages/ml_api/requirements.txt
 # api
-flask==1.0.2
+flask==2.3.2
 
 # schema validation
 marshmallow==3.6.0
